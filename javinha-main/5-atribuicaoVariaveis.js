@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head>
-
-
-
-
-    </head>
-
-    <body>
-
-        <script>
-            console.log("Trabalhando com atribuição de variáveis");
+console.log("Trabalhando com atribuição de variáveis");
 
             const idade = 29;
             const primeiroNome = "Ricardo";
@@ -25,6 +13,3 @@
             const nomeCompleto = primeiroNome + sobrenome;
             console.log(nomeCompleto);
             nomeCompleto =2;
-        </script>
-    </body>
-</html>
